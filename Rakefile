@@ -17,8 +17,12 @@ Jeweler::Tasks.new do |gem|
   gem.name = "em-sqs-dispatcher"
   gem.homepage = "http://github.com/mixan946/em-sqs-dispatcher"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{
+    Dispatcher for pushing aws sqs messages and listening queues using EventMachine and long polling
+  }
+  gem.description = %Q{
+    Dispatcher for pushing aws sqs messages and listening queues using EventMachine and long polling
+  }
   gem.email = "mixan946@gmail.com"
   gem.authors = ["Mikhail"]
   # dependencies defined in Gemfile
