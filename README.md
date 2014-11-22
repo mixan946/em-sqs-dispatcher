@@ -2,6 +2,7 @@
 
 ![TravisCI](https://travis-ci.org/mixan946/em-sqs-dispatcher.svg)
 [![Code Climate](https://codeclimate.com/github/mixan946/em-sqs-dispatcher/badges/gpa.svg)](https://codeclimate.com/github/mixan946/em-sqs-dispatcher)
+[![Test Coverage](https://codeclimate.com/github/mixan946/em-sqs-dispatcher/badges/coverage.svg)](https://codeclimate.com/github/mixan946/em-sqs-dispatcher)
 
 Dispatcher for pushing aws sqs messages and listening queues using EventMachine and long polling
 
